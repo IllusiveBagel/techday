@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/techday/static/css/main.6ce5efa5.css",
+    "main.js": "/techday/static/js/main.0bf44e36.js",
+    "static/js/787.6846f123.chunk.js": "/techday/static/js/787.6846f123.chunk.js",
+    "static/media/sls.png": "/techday/static/media/sls.c68b2c5903a4a472f4d0.png",
+    "index.html": "/techday/index.html",
+    "main.6ce5efa5.css.map": "/techday/static/css/main.6ce5efa5.css.map",
+    "main.0bf44e36.js.map": "/techday/static/js/main.0bf44e36.js.map",
+    "787.6846f123.chunk.js.map": "/techday/static/js/787.6846f123.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce5efa5.css",
+    "static/js/main.0bf44e36.js"
+  ]
+}
